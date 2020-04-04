@@ -19,7 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(var(--hue), 100%, 20%);
-    font-size: 40px;
+    font-size: 30px;
 }
 
 body.correct {
